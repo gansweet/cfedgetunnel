@@ -1,8 +1,8 @@
-name = "v20251104"
+name = "hkvlsgproton"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
-#[[kv_namespaces]]
-#binding = "KV"			#KV绑定名默认不可修改
-#id = ""				#KV数据库id
+[[kv_namespaces]]
+binding = "KV"			#KV绑定名默认不可修改
+id = "48700beaf3f94f78bd5cd91819de879e"				#KV数据库id
